@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Specification-Vendor: com.github.otfoo
+Specification-Title: play-livescript
+Specification-Version: 0.1.1
+
